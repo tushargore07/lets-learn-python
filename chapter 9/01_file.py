@@ -5,6 +5,11 @@ the text in it.
 '''
 
 f=open("file.txt")
-data=f.read
+data=f.read()
 print(data)
 f.close()
+
+#due to technical problem this file is not..
+# here but on seperate folder it works well
+
+
